@@ -33,6 +33,14 @@ Contiene los registros de uso de los servicios:
 ### plans.csv
 
 Contiene la información de los planes ofrecidos por ConnectaTel.
+* plan_name	
+* messages_included	
+* gb_per_month	
+* minutes_included	
+* usd_monthly_pay	
+* usd_per_gb	
+* usd_per_message	
+* usd_per_minute
 
 ---
 
